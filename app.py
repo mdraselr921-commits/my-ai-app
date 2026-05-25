@@ -2,7 +2,7 @@ import streamlit as st
 from lumaai import LumaAI
 
 # আপনার API Key এখানে দিন (নিরাপত্তার জন্য এনভায়রনমেন্ট ভেরিয়েবল ব্যবহার করাই ভালো)
-client = LumaAI(auth_token="YOUR_LUMA_API_KEY_HERE")
+client = LumaAI(auth_token="AIzaSyBqCXAXLK6hG1mchiuWYcxWOt08qBxwZzA")
 
 st.title("এআই ভিডিও জেনারেটর")
 
